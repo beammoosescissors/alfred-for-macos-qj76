@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with Alfred for macOS updated Addon - widgets and quick search, the #1 addon. Includes widgets and quick search for a smoother experience.
 
 
 
